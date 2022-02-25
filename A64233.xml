@@ -1,0 +1,699 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pray for the peace of Jerusalem a visitation sermon. / preached at Gainsbrough, May 7th 1691 by Nathanael Taylor ...</title>
+            <author>Taylor, Nathanael, d. 1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64233</idno>
+            <idno type="STC">Wing T547</idno>
+            <idno type="STC">ESTC R33904</idno>
+            <idno type="EEBO-CITATION">13612430</idno>
+            <idno type="OCLC">ocm 13612430</idno>
+            <idno type="VID">100757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1051:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pray for the peace of Jerusalem a visitation sermon. / preached at Gainsbrough, May 7th 1691 by Nathanael Taylor ...</title>
+                  <author>Taylor, Nathanael, d. 1702.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXXII, 6 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100757:1"/>
+            <p>
+               <hi>Pray for the Peace of</hi> JERUSALEM.</p>
+            <p>A <hi>Viſitation Sermon,</hi> PREACHED AT Gainsbrough, <hi>May</hi> 7<hi rend="sup">th.</hi> 1691.</p>
+            <p>By <hi>NATHANAEL TAYLOR,</hi> M. A. and Maſter of the Grammar-School at <hi>Brigg</hi> in <hi>Lincolnſhire.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſalm 133.1.</hi>
+               </bibl> Behold how good, and how pleaſant it is for Brethren to dwell together in <g ref="char:V">Ʋ</g>nity.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper</hi> at the <hi>Mitre</hi> in <hi>Fleetſtreet.</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100757:2"/>
+            <pb facs="tcp:100757:2"/>
+            <head>TO THE Reverend Mr. <hi>JOHN H<g ref="char:V">Ʋ</g>TTON,</hi> ARCHDEACON of <hi>STOVV,</hi> And my Brethren of the Clergy in that Arch<g ref="char:EOLhyphen"/>deaconry in the County of <hi>LINCOLN,</hi> All Preſent and Future Happineſs.</head>
+            <p>WHen I was obliged to appear to preach a <hi>Viſitation Sermon</hi> amongſt you, I made it my bu<g ref="char:EOLhyphen"/>ſineſs not to court Applauſe, nor uſe a popu<g ref="char:EOLhyphen"/>lar Text; but to inſiſt on what might really be ſuitable to our Times, and ſerviceable to our Church and Holy Calling.</p>
+            <p>And conſidering the Foreign War our Nation is engaged in, the inteſtine Schiſm our Church and Religion ſuffers by, I could not ſuppoſe a more fit Subject might be found, than what I choſe, to oblige the Prayers and Endeavours of all our Church's. Members for its Peace; which I am ſure none can be against, but ſuch Incendiaries as delight in publick Miſeries.</p>
+            <pb facs="tcp:100757:3"/>
+            <p>When I appeared, I muſt gratefully own, the Serenity of your Complexions ſhewed what you are happy in, and my Endeavours want<g ref="char:EOLhyphen"/>ed, an inward Goodneſs and Candour.</p>
+            <p>But tho' my Sermon was then received ſo kindly by many of you, yet have I and it met with ſuch Cenſures and Reflections ſince, that I am forced to let it ſpeak for it ſelf. And as I never yet was concerned in the leaſt Proſecution of any Diſſenter, (tho li<g ref="char:EOLhyphen"/>ving always in the midſt of them, I endea<g ref="char:EOLhyphen"/>voured by Reaſons to reconcile them to our Church:) So I hope theſe Pages will de<g ref="char:EOLhyphen"/>monſtrate me to have had no other Deſign, than the uniting us at home, that our Church and Nation may be happy, whoſe Felicity next to Gods Glory, I ſhall ever make the great End of my Study, who am,</p>
+            <closer>
+               <dateline>Brigg-<hi>School,</hi> 
+                  <date>May <hi>23. 1691.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your Humble Servant,</hi> Nathanael Taylor.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100757:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm 122.6.</hi>
+                  </bibl>
+                  <p>Pray for the Peace of <hi>Jeruſalem:</hi> They ſhall proſper that love thee.</p>
+               </q>
+            </epigraph>
+            <p>THIS Pſalm, as alſo the two preceeding, and Twelve ſucceeding Pſalms, are ſtiled Pſalms or Songs of degrees; whether becauſe
+<note n="*" place="margin">Godwin<hi>'s Jewiſh Antiq.</hi> l. 2. c. 1. p. 65.6. Ainſworth, <hi>on Pſal.</hi> 120. Pelling's <hi>Good old way.</hi> p. 50.</note> ſung upon the 15 Steps that went up into the Houſe of the Lord, as <hi>R. David Kimchi, on Pſal.</hi> 120, thought, and the <hi>Chaldee</hi> Interpretation favours; or becauſe they were ſelect Pſalms choſen and ſung by the <hi>Jews</hi> at their return from their <hi>Babylonian</hi> Captivity, as other Expoſi<g ref="char:EOLhyphen"/>tors
+<note n="†" place="margin">Diodate <hi>in Aſſembly. lec.</hi> Wilſon<hi>'s new Dieſtonary.</hi>
+               </note> ſuppoſe, I ſhall not determine; both may be pro<g ref="char:EOLhyphen"/>bable, theſe Pſalms generally ſpeaking of
+<note n="1" place="margin">
+                  <hi>Pſal.</hi> 124.1, 2, 3.132.5, 13.133.3.</note> the <hi>excellency of the Temple,</hi> inviting to it, and directing to <hi>Duty in i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and ſome of them expreſly
+<note n="2" place="margin">
+                  <hi>Pſal.</hi> 124.6, 7.126.1.2.</note> mentioning their Slavery under, and happy deliverance out of their Captivity of <hi>Babylon.</hi>
+            </p>
+            <p>However, about the penning of this Pſalm, Expoſi<g ref="char:EOLhyphen"/>tors
+<note n="‖" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Janſ. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>emel.</hi>
+               </note> agree 'twas penned by the Prophet <hi>David,</hi> after he had conquered <hi>Jeruſalem</hi>
+               <note n="3" place="margin">2 <hi>Sam.</hi> 5, 6, 7, 8.</note> (which was then held by the <hi>Jebuſites,</hi>) and had brought the Ark of God thither,
+<note n="4" place="margin">2 <hi>Sam.</hi> 6.15. <hi>Pſal.</hi> 122.4.</note> and made <hi>Jeruſalem</hi> the place of the publick Worſhip of God, who after owns <hi>Jeruſalem</hi> and <hi>Mount Zion</hi> as the place where he would dwell, and where his Reſt
+<pb n="2" facs="tcp:100757:4"/>ſhould be; as appears fully at <hi>Solomon</hi>'s
+<note n="1" place="margin">2 <hi>Chron.</hi> 7.12. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 18.</note> Dedication of the Temple.</p>
+            <p>
+               <hi>Jeruſalem</hi> in the Original of the Text, is expreſſed in the Dual Number, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and ſome
+<note n="*" place="margin">Paſor<hi>'s Lex. on the Word.</hi>
+               </note> thence think it to refer to the Earthly <hi>Jeruſalem,</hi> the place of God's pub<g ref="char:EOLhyphen"/>lick Worſhip here; and the Heavenly <hi>Jeruſalem</hi> where his Throne of Glory is, and his Saints with him, ſhall en<g ref="char:EOLhyphen"/>joy happineſs hereafter: And indeed St. <hi>John,</hi> Rev. 21.2. expreſſeth that place of Glory by <hi>Jeruſalem.</hi>
+            </p>
+            <p>But becauſe thoſe Heavenly Manſions are no ways di<g ref="char:EOLhyphen"/>ſturbed with noiſe or clamour, can't be infeſted with Schiſm or Hereſy, nor can the fury of Men or Devils diſturb their Peace; I ſhall humbly beg leave to ſup<g ref="char:EOLhyphen"/>poſe another ſenſe of it, and that is, that <hi>Jeruſalem</hi> in the Text, refers to the Church Militant on Earth, whe<g ref="char:EOLhyphen"/>ther of <hi>Jews,</hi> as literally before Chriſt, or the Chriſtian Church of both <hi>Jew</hi> and <hi>Gentile,</hi> by Allegory, ſince Chriſt as St. <hi>Paul</hi> uſeth it, <hi>Gal.</hi> 4.26. And then beſides ſome Modern Expoſitors,
+<note n="†" place="margin">Bucer &amp; Janſen.</note> the ancient Father St. <hi>Proſper,</hi>
+               <note n="‖" place="margin">
+                  <hi>St.</hi> Proſper <hi>in Pſal.</hi> 122.2.</note> ex<g ref="char:EOLhyphen"/>pounds the place of the Chriſtian Church.</p>
+            <p>
+               <hi>Non in ista Hieruſalem quae occidit Prophetas &amp; lapida<g ref="char:EOLhyphen"/>vit ob ſe miſſos, quae ad impietates multas ſtare non potuit, ſed in illa Coeleſti Hieruſalem, quae eſt Sanctorum omnium Mater, Filii ipſius ſtare laetantur: Qui licet invia ſint &amp; adhue illo tendunt, ita tamen quaſi pervenerint guadent, quia de A<g ref="char:EOLhyphen"/>dipiſcendis fide, forma non dubitat.</hi>
+            </p>
+            <p>And if the Prophet <hi>David,</hi> and the <hi>Jewiſh</hi> Nation were ſo joyful under their Oeconomy, much more cauſe have the Chriſtians to rejoyce under the Goſpel Diſpen<g ref="char:EOLhyphen"/>ſation; they had but the ſhadow, we the ſubſtance; they believed in a Chriſt to come, we in a Chriſt alrea<g ref="char:EOLhyphen"/>dy come.</p>
+            <p>And of all Chriſtians, we the Miniſters and Members of this beſt of Churches, the Church of <hi>England,</hi> have
+<pb n="3" facs="tcp:100757:4"/>reaſon to bleſs God for, and rejoyce in the happineſs as yet continued to us, that we <hi>have Peace in our</hi> Jeruſa<g ref="char:EOLhyphen"/>lem, that we may go into <hi>the Houſe of the Lord;</hi> that we have liberty to diſpence, and you to hear, and re<g ref="char:EOLhyphen"/>ceive the Goſpel and its Ordinances.</p>
+            <p>But ſince the Ambition of ſome, and the fiery Zeal of others from abroad, endeavour to conſume us, the Schiſms and Hereſies at home to undermine us, many to divide us, the remiſneſs in our Office, and irregularity in the Lives of our Members to betray us, it concerns every Chriſtian and Miniſter to practiſe the Duty of the Text.</p>
+            <p>Nor is it beneath the greateſt Prelate, or above the meaneſt Laick, while in the Church Militant on Earth, with <hi>David</hi>
+               <note n="1" place="margin">
+                  <hi>Pſal.</hi> 122.1. to 6.</note> in this Pſalm to delight in, and to be zealous for our Religion himſelf, and entreat others in the words of the Text, to <hi>Pray for the Peace of</hi> Jeruſalem, <hi>and let all proſper that love her.</hi>
+            </p>
+            <p>In the words are Three Parts.
+<note place="margin">Diviſ. of the Text.</note>
+            </p>
+            <list>
+               <item>I. A <hi>Precept,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the 70 <hi>Expetite. Jun. Tri<g ref="char:EOLhyphen"/>mel.</hi>
+               </item>
+               <item>II. <hi>What to Pray for</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Peace of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> that there may be no War without to diſturb her, nor Schiſms within to divide her.</item>
+               <item>III. <hi>The motive to this Prayer;</hi> They ſhall proſper that love thee.</item>
+            </list>
+            <p>Of theſe in their Order.</p>
+            <p n="1">I. Here is a Precept to a Duty, <hi>Pray,</hi> not coldly,
+<note place="margin">
+                  <hi>Part</hi> I.</note> but earneſtly, for <hi>Jeruſalem</hi>'s welfare. Every mercy for our private uſe, or the publick Good, comes from God,
+<note n="2" place="margin">
+                  <hi>James</hi> 1.17. <hi>Mat.</hi> 7.7, 8.</note> who gives freely to all that importune him by Prayer; and
+<pb n="4" facs="tcp:100757:5"/>ſurely we have little deſire of, or care for our own or the Churches Peace, if we pray not for it: So great Mercies are worth our asking, or elſe God may juſtly think us unworthy their enjoying.</p>
+            <p>The Prophet <hi>David</hi> reſolved <hi>never to forget his</hi> Jeru<g ref="char:EOLhyphen"/>ſalem,
+<note n="1" place="margin">
+                  <hi>Pſal.</hi> 137.5, 6.</note> 
+               <hi>and wiſhed his Tongue might cleave to the roof of his Mouth, if he preferred not</hi> Jeruſalem <hi>to his chief Joy.</hi> And how earneſt do we find him interceeding with God for it? <hi>Do good unto</hi> Zion, <hi>O build
+<note n="2" place="margin">
+                     <hi>Pſal.</hi> 51.18, 19.</note> up the Walls of</hi> Jeru<g ref="char:EOLhyphen"/>ſalem. But eſpecially in Pſalm 80, where he complain<g ref="char:EOLhyphen"/>ing of the Churches Miſery, and how that the <hi>Wild Boar waſted it,</hi> and <hi>the wild Beaſts devoured it;</hi> Begs of God to return and viſit his Vineyard, to cauſe his Face to ſhine on his People, and ſave them.</p>
+            <p>And ſurely this ſhould excite our Zeal; we are in as great danger, environ'd with Enemies who ſtrive to de<g ref="char:EOLhyphen"/>vour us; and our Church like its Dear Maſter, is nigh being Crucified between <hi>Papists</hi> and <hi>Diſſenters.</hi> And 'tis the God of Peace that can only grant and continue ours; 'tis he that makes Men of one Mind in an Houſe, and who can cauſe <hi>our Enemies
+<note n="3" place="margin">
+                     <hi>Prov.</hi> 16.7.</note> to be at peace with us,</hi> or ſtop their Fury againſt us.</p>
+            <p>And ſuppoſe no other means were left but Prayer, yet that may be prevalent with God to <hi>grant us Peace in our Days:</hi> The <hi>Iſraelites</hi> under their <hi>Egyptian</hi> Bondage, when denied the publick Worſhip of God, and deprived of uniform and unanimous petitioning him, for deli<g ref="char:EOLhyphen"/>verance, <hi>had their Sighs and
+<note n="4" place="margin">
+                     <hi>Exed.</hi> 2.24.3.7.</note> Groans heard by him, and they prevailed with God to ſend them</hi> Moſes <hi>for their Deli<g ref="char:EOLhyphen"/>verer.</hi> And if the Sighs or Cloſet <hi>Prayer of a private Chri<g ref="char:EOLhyphen"/>ſtian ſhall
+<note n="5" place="margin">
+                     <hi>Mat.</hi> 6.6.7.7.</note> be anſwered,</hi> and <hi>where Two or Three are met together in Chriſts Name,
+<note n="6" place="margin">
+                     <hi>Mat.</hi> 18.20.</note> he promiſeth their Prayers ſhall be heard,</hi> how prevalent muſt the Prayers of an whole Congregation, yea of all the Members of this Church of God in this Nation be?</p>
+            <pb n="5" facs="tcp:100757:5"/>
+            <p>When God accepted of <hi>Solomon</hi>'s Temple, he pro<g ref="char:EOLhyphen"/>miſed
+<note n="1" place="margin">2 <hi>Chron.</hi> 7.14.</note> 
+               <hi>that in all Calamities, would his People aſſemble there and pray, he would hear them, and grant their De<g ref="char:EOLhyphen"/>ſires.</hi>
+            </p>
+            <p>Nor are we without Inſtances of the prevalency of of the Prayers of God's People in behalf of the Churches ſafety and its Enemies overthrow. <hi>Moſes by Prayer
+<note n="2" place="margin">
+                     <hi>Exod.</hi> 17.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> pre<g ref="char:EOLhyphen"/>vailed for the Deſtruction of the</hi> Amalekites, <hi>and the preſer<g ref="char:EOLhyphen"/>vation of the</hi> Iſraelites. When <hi>Hezekiah</hi> heard of <hi>Senache<g ref="char:EOLhyphen"/>rib</hi>'s Blaſphemy againſt God and his Religion, and his Bloody deſign againſt his Church, he by Prayer prevailed with God <hi>to deſtroy</hi>
+               <note n="3" place="margin">2 <hi>King.</hi> 19.2 <hi>Chron.</hi> 20.19, 22, 21.</note> Senacherib's <hi>Army, and preſerve his Church.</hi> When <hi>Jeruſalem</hi>'s Wall was broken down, and its Inhabitants were in a very diſtreſſed condition under <hi>Ar<g ref="char:EOLhyphen"/>taxerxes, Nehemiah</hi> prayed, and God gave
+<note n="4" place="margin">
+                  <hi>Ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1. <hi>Chap.</hi> 2.</note> him favour with the King, <hi>ſo that he got an order for the redreſs of the City and People.</hi> In a word, while <hi>Daniel</hi> was pray<g ref="char:EOLhyphen"/>ing for <hi>Jeruſalems</hi> reſtoration,
+<note n="5" place="margin">
+                  <hi>Dan.</hi> 9.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21, 22, 23</note> 
+               <hi>he had an Angel diſ<g ref="char:EOLhyphen"/>patched to inform him, that his Prayer was heard, and granted.</hi>
+            </p>
+            <p>So that no Calamity or Troubles can be ſo great or many, felt and feared by the People and Church of God, but by Prayer they may prevail for Deliverance. And God is the ſame Almighty God as ever, his promiſes to the Chriſtian Church as full and free as to the <hi>Jewiſh;</hi> and therefore to remove all Troubles felt, and to prevent all Miſeries feared, let Miniſters and People from the higheſt to the loweſt, from one end of the Land to the other joyn in the performance of the Duty of the Text.</p>
+            <p>
+               <hi>Pray for the Peace of</hi> Jeruſalem; and the Lord grant us a gracious Anſwer.</p>
+            <pb n="6" facs="tcp:100757:6"/>
+            <p>But Prayer to God is not what alone is required of us for the Peace of <hi>Jeruſalem.</hi> For Verbs of Affection in the Holy Language imply Action; nor can he have any earneſt deſires God ſhould grant what he prays for, <hi>the Peace of</hi> Jeruſalem, who takes not all care he can, and uſeth his utmoſt endeavours to promote it. And indeed the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text is from the <hi>Radix,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is rendred by <hi>Buxtorf,</hi> not only <hi>Petiit</hi> but <hi>Conſu<g ref="char:EOLhyphen"/>luit;</hi> and the Prophet <hi>David</hi> explains it, <hi>Pſal.</hi> 122.8. by <hi>I will ſeek thy Good.</hi> And <hi>Janſenius</hi> in his Paraphraſe on that Verſe hath it: <hi>Precando optavi tibi bona, &amp; omni ſtudio tibi prodeſſe, quod in me eſt conatus ſum. Bucer</hi> comments on it thus; <hi>Omnes ſuas quiſque curas, omnes co<g ref="char:EOLhyphen"/>gitationes convertat, quo illi omnia ſecundat.</hi> And he adds the Reaſon; <hi>Nam quicquid ſerio petimus, ad id paran<g ref="char:EOLhyphen"/>dum quoque, ſi quid ad hoc modo poſſumus, totis viribus ferimur.</hi>
+            </p>
+            <p>So that we muſt not only in obſervance of this Pre<g ref="char:EOLhyphen"/>cept, pray to God, and that with all Importunity, Zeal and Affection; but with our utmoſt endeavours ſeek after, conſult for, and labour to promote what is the ſubject to be prayed for, and the Second part of the Text.</p>
+            <p n="2">II.
+<note place="margin">
+                  <hi>Part</hi> II. <hi>of the Text.</hi>
+               </note> The Peace and Proſperity, the Integrity and Wel<g ref="char:EOLhyphen"/>fare of <hi>Jeruſalem,</hi> as the Original Word imports; but alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Septuagint hath it, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as Dr. <hi>Duport</hi> tranſlates it. In the 70, ſome ſuppoſe
+<note n="*" place="margin">Janſen. <hi>in loc.</hi>
+               </note> an error of the Accuſative <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for the Genitive <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, unleſs by way of Emphaſis, the Pſalmiſt meant; and the 70 would Tranſlate it, O pray for the Peace, <hi>the Peace</hi> I ſay of <hi>Jeruſalem.</hi> Howe<g ref="char:EOLhyphen"/>ver
+<note n="†" place="margin">Ainſworth <hi>in loc.</hi>
+               </note> both will oblige our care, and endeavour to pro<g ref="char:EOLhyphen"/>mote thoſe things that make for the Peace of <hi>Jeruſalem,</hi> of which I ſhall humbly offer Four.</p>
+            <pb n="7" facs="tcp:100757:6"/>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>nanimity in Doctrin;</hi> Thus this <hi>Jeruſalem</hi> of God is ſtiled a City compact together, <hi>Pſal.</hi> 122. <hi>v.</hi> 3. and the Pſalms in our Common-Prayer-book, as a Para<g ref="char:EOLhyphen"/>phraſe on it, render if a <hi>City at <g ref="char:V">Ʋ</g>nity in it ſelf,</hi> and moſt agreeable to the Original, if we may take <hi>Bithner</hi>'s
+<note n="*" place="margin">Bithner<hi>'s Ly<g ref="char:EOLhyphen"/>ra Prophet. i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Loc.</hi>
+               </note> Judg<g ref="char:EOLhyphen"/>ment, who tells us the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> imports <hi>Conſociata,</hi> united in one Society, <hi>unanimous;</hi> and yet as if this was not e<g ref="char:EOLhyphen"/>nough to declare its unanimity, the Original hath as it were an exegetical Word more <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifying
+<note n="‖" place="margin">Buxtorf. <hi>Lexicon.</hi>
+               </note> 
+               <hi>ad unum ſimul;</hi> ſo that God's <hi>Jeruſalem</hi> or Church, is a Society of People <hi>Compacted, <g ref="char:V">Ʋ</g>nited,</hi> and by ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>nanimity</hi> knit together.</p>
+            <p>And as the Rule of the <hi>Jewiſh</hi> Church for their Faith to which they adhered, was the <hi>Law</hi>
+               <note n="1" place="margin">
+                  <hi>Iſa.</hi> 8.20.</note> and <hi>Teſtimony,</hi> de<g ref="char:EOLhyphen"/>clining what was not agreeable to it; and to this Law and Teſtimony, <hi>the Scriptures,</hi> our Saviour appealed
+<note n="2" place="margin">
+                  <hi>John</hi> 5.39.</note> to prove himſelf to the <hi>Jews their promiſed Meſſiah.</hi> So our Church of <hi>England</hi> allows of nothing for Doctrin but what is plainly made known in Scripture, or may be genuinely deduced from it.</p>
+            <p>Our Faith is founded on the Sacred Word of God, epitomized in the Apoſtle, and explained by the <hi>Nicene</hi> and <hi>Athanaſian</hi> Creeds, confirmed by the Writings and Decrees of the Primitive Fathers and Counſels, and ſeal<g ref="char:EOLhyphen"/>ed with the Blood of Martyrs.</p>
+            <p>Our Church in her Articles, adores the holy and un<g ref="char:EOLhyphen"/>divided Trinity, without any Rivals of <hi>Saints</hi> or <hi>An<g ref="char:EOLhyphen"/>gels;</hi> receives the Faith of Chriſt without any thing that deſtroys his Divinity, as <hi>Images</hi> and <hi>Pictures,</hi> or that nulls his Humanity, as <hi>Tranſubſtantiation;</hi> and owns all his Offices without the Doctrins deſtructive to them of the <hi>Pope's Supremacy</hi> and <hi>Infallibility,</hi> of <hi>Merits</hi> and <hi>Pur<g ref="char:EOLhyphen"/>gatory,</hi> and ſo Believers of the Gifts and Graces of the Holy Ghoſt, as to be free from <hi>Enthuſiaſm</hi> or <hi>Prophane<g ref="char:EOLhyphen"/>neſs.</hi>
+               <pb n="8" facs="tcp:100757:7"/>She admits of no Doctrin concerning many States of Creation, Apoſtacy, Grace and Glory that any way ecclipſeth God's Glory and Mercy, and Chriſts Merits and Satisfaction; but all things in her Articles and Homilies are ſo propoſed, as may moſt ſet forth Gods goodneſs, and Mans vileneſs, our Miſery by Sin, and Happineſs through a Saviour, and all this in ſo plain and familiar a Stile, and in our own Language, that no Member of her, can juſtly plead a cauſe of Ignorance of her Prin<g ref="char:EOLhyphen"/>ciples.</p>
+            <p>Let us then be Unanimous in our Doctrins, and have a care of baſely betraying or denying her, or Apoſta<g ref="char:EOLhyphen"/>tizing from her: It becomes not us to proſtitute our dear Mother to the pleaſure of every Malecontented Adver<g ref="char:EOLhyphen"/>ſary, to ſubſtract from her Ancient Catholick Principles, or to add to their new Opinions, as this or the other Party pleaſeth, whoſe Zeal againſt our Church outruns their Knowledge of her Doctrins: And when I earneſtly beg to lay aſide prejudice and heat, and employ that Liberty of Conſcience granted them, in ſearching im<g ref="char:EOLhyphen"/>partially, and ſeriouſly weighing our Doctrin in the 39 Articles, and Book of Homilies; I doubt not but they would ſoon find Reaſon and Religion perſwading them to repent of their paſt Folly and Sin of Schiſm, and to unite with us, and pray for the Peace of our <hi>Jeruſalem, Our Church of</hi> England, which is the envy of all Diſſenters, and the Glory of the whole Chriſtian World.</p>
+            <p>For us Miniſters, in publick or private, to detract from the Doctrins of our Church, is <hi>Judas</hi> like, to kiſs and betray her: And let us but ſeriouſly ask the Diſſenters, or conſider with our ſelves, ſhould we recede from our Received Principles, where ſhould we center?</p>
+            <pb n="9" facs="tcp:100757:7"/>
+            <p>Are our Adverſaries agreed what to ask? And if we ſhould grant what they now deſire, would they ad<g ref="char:EOLhyphen"/>here to their preſent Propoſals, or oblige their Con<g ref="char:EOLhyphen"/>gregations to unite with us? How indeed can this be thought on, when there are ſo many Sects contrary to us, and to one another amongſt us? The Papiſts deny the Truth of our Church, becauſe of their <hi>Multitude:</hi> The Diſſenters ſeparate from us, becauſe we are ſo many, and not <hi>ſelected Congregations:</hi> The one upbraids us with <hi>Novelty,</hi> the other diſlikes our <hi>Antiquity,</hi> and would have us change our Religion as often as they pleaſe.</p>
+            <p>To gain ſome, we muſt part with the Apoſtolick Re<g ref="char:EOLhyphen"/>gimen of our Church by Biſhops; and inſtead of one, have every one to Lord it over us. To bring in others, we muſt throw away Infant-Baptiſm, and reduce the Church to Heatheniſm again, and make it always gather<g ref="char:EOLhyphen"/>ing, never gathered. To engage a third Party, we muſt deny all Chriſtianity, in a manner, Chriſt's Incar<g ref="char:EOLhyphen"/>nation, both Sacraments, the Reſurrection of theſe our Bodies, and muſt own an Infallibility in every one. whenas now but one pretends to it, and he grandly miſtaken in it too. To reconcile the Papiſt, we muſt diſown almoſt all the Articles of our Church, and not only them, but of our Creed alſo; and receive Twelve new ones on neceſſity of Salvation, tho' of no longer Date as ſuch, than the <hi>Trent</hi> Conventicle. Nor is this all, to unite with them, we muſt not only lay aſide Chri<g ref="char:EOLhyphen"/>ſtianity, but our Humanity alſo; and muſt deny our Reaſon and Senſes to believe <hi>Tranſubſtantiation:</hi> For tho' we ſee, ſmell, taſte, and feel Bread and Wine, yet muſt we believe it to be Chriſts Fleſh and Blood, the ſame he had of the <hi>Virgin Mary.</hi>
+            </p>
+            <p>And now conſider where we ſhould ſtop, or what a Chaos our Church would thus be! <hi>Jeruſalem</hi> would be<g ref="char:EOLhyphen"/>come
+<pb n="10" facs="tcp:100757:8"/>a <hi>Babel;</hi> and it would be a ſtrange Reformation, in order to our being purer and better reformed, to lay aſide Religion, Reaſon, and our Senſes, and turn any thing but Chriſtians and Men.</p>
+            <p>The Heathens had a Form of Doctrin delivered down to them, to which they ſo adhered, that one ſaith
+<note n="*" place="margin">Cotta in Ci<g ref="char:EOLhyphen"/>cero. de Nat. Deorum l. 3.</note>,</p>
+            <p>
+               <hi>Opiniones a majoribus acceptas defendam, &amp; defendi ſemper, nec me ex ea opinione quam a majoribus accepi de cultu Deorum immortalium ullius unquam oratio aut do<g ref="char:EOLhyphen"/>cti aut indocti movebit.</hi> Much more reaſon ſurely have we to keep to our Religion which is truly Apoſtolical, was that Faith once delivered to the Saints,
+<note place="margin">
+                  <hi>Jude</hi> 3. <hi>Rev.</hi> 2.10.</note> and in which being conſtant to Death, we may expect a Crown of Life.</p>
+            <p>Let us then not be wheedled or frighted to recede from Antiquity, or be impoſed upon by Novelty. We have ſubſcribed the Thirty Nine Articles, and they in<g ref="char:EOLhyphen"/>clude the Book of Homilies. Let us not then, againſt our Judgment, our ſolemn Profeſſion and ſerious Subſcri<g ref="char:EOLhyphen"/>ption of them, turn from, or be aſhamed of the beſt of Churches:
+<note place="margin">1 <hi>Tim.</hi> 7.20.</note> Such Perſons may remember that <hi>Hymene<g ref="char:EOLhyphen"/>us</hi> and <hi>Philetus are ſtigmatized for their Apoſtacy to all Poſterity.</hi>
+            </p>
+            <p>Let us rather propagate this Faith by Catechiſing, that the People committed to our Care, when Men, <hi>may not be Children toſſed to and fro with every wind of Doctrin,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 4.14.</note> and after ſome years preaching among them,
+<note place="margin">
+                  <hi>Heb.</hi> 5.12.</note> have need to be taught again what are the firſt Principles of the Oracles of God.</p>
+            <p>The Heathens own the neceſſity of inſtructing Youth,
+<q>
+                  <l>
+                     <note n="*" place="margin">Theog. <hi>v.</hi> 1001.2.</note> —<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> The <hi>Roman</hi> Orator
+<note n="†" place="margin">Cicero, l. 4. ad Heren.</note> accounts it a great piece of Wiſ<g ref="char:EOLhyphen"/>dom, and the greateſt Service we can do in our Gene<g ref="char:EOLhyphen"/>ration:
+<pb n="11" facs="tcp:100757:8"/>God calls for it, and our Church enjoyns
+<note n="*" place="margin">Can. 59.</note> it,
+<note place="margin">
+                  <hi>Prov.</hi> 22.6.</note> puniſhing its continued neglect, with Suſpenſion and Ex<g ref="char:EOLhyphen"/>communication; moſt, if not all Diſſenters practiſe it. And ſhall they be induſtrious to propagate Error, and we not careful to train up our People in the true Faith? God forbid!</p>
+            <p>Let our paſt remiſneſs make us more zealous in this Practice. Our Church injoyns a Catechiſm which con<g ref="char:EOLhyphen"/>tains the Summ of the Chriſtian Religion, the <hi>Credenda</hi> in the Creed, the <hi>Agenda</hi> in the Ten Commandments, the <hi>Petenda</hi> in the Lords Prayer, and the <hi>Recipienda</hi> in the Doctrin of the Sacraments; and ſhe explains them all conciſely, obliging her Members to their performance from their Vow in Baptiſm, and the Benefits they re<g ref="char:EOLhyphen"/>ceive thereby.</p>
+            <p>This Practice would ſtop the Diviſions of this, and lay the Foundation for the Peace of our <hi>Jeruſalem</hi> in another Generation, by cauſing an Unanimity amongſt Men in Religion; to which ſee how earneſtly St.
+<note place="margin">
+                  <hi>Eph.</hi> 4.1, 2, <hi>to</hi> 8.</note> 
+               <hi>Paul</hi> beſeecheth all Chriſtians from their being Children of one God, Members of one Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p>And let me beg (with the ſincereſt Affection of a Chriſtian and Miniſter) the Diſſenters to unite with us againſt a Common Enemy, and not expoſe themſelves and us to inevitable Ruin, by their needleſs Diviſions; for 'tis impoſſible (if they bring Ruin upon us) them<g ref="char:EOLhyphen"/>ſelves ſhould eſcape in that publick Miſery.</p>
+            <p>In a word; If a common Officer commanding you in the King's Name, can make you keep the Peace in a Civil Senſe; if <hi>Julius Caeſar</hi> could,
+<note place="margin">Sueton. Jul. Caeſ. c. 78.</note> and did appeaſe the <hi>Roman Decumani</hi> when multiplying, by that Triſvllable, <hi>Quirites,</hi> intimating they were <hi>Roman</hi> Gentlemen and Souldiers, and ought not to quarrel amongſt themſelves; let me as an Ambaſſador of the God of Peace, beg,
+<note n="2" place="margin">
+                  <hi>Cor.</hi> 5.20.</note> and
+<pb n="12" facs="tcp:100757:9"/>begging prevail from that <hi>Tetragrammaton</hi> com<g ref="char:EOLhyphen"/>pounded of quieſcent Letters, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with every of the Members of Chriſts Church, or that own themſelves the Children of the God of Peace, by Unanimity of Doctrin to endeavour the Peace of our <hi>Jeruſalem;</hi> and let our Prayers,
+<note place="margin">
+                  <hi>St.</hi> Proſper <hi>in loc.</hi>
+               </note> and St. <hi>Proſper</hi>'s words conclude this Head, <hi>Fiant unitas &amp; abundantin diligentium te.</hi>
+            </p>
+            <p n="2">2. Another thing conducing to the Peace of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> is, <hi>
+                  <g ref="char:V">Ʋ</g>niformity in Worſhip:</hi> This we find the <hi>Iſra<g ref="char:EOLhyphen"/>elites</hi> exemplary in,
+<note place="margin">
+                  <hi>Pſalm</hi> 122.4.</note> in this Pſalm, <hi>Let us go,</hi> ſay they, <hi>into the Houſe of the Lord—our feet ſhall ſtand in thy Gates, O Jeruſalem, whither the Tribes go up, the Tribes of the Lord unto the Teſtimony of Iſrael, to give thanks to the Name of the Lord.</hi>
+            </p>
+            <p>They muſt be very Strangers to Heathen Writers, who know not, that as they had their Gods, ſo they had their Temples ſet apart wherein to worſhip them, and a diſtinct Order of Men to be Prieſts to perform that their Worſhip;
+<note place="margin">Ariſt. <hi>Polit. l.</hi> 7. <hi>c.</hi> 8. <hi>T.</hi> 3. <hi>p.</hi> 581. <hi>c.</hi> 9. <hi>p.</hi> 583.</note> which Order, the Philoſopher (to the ſhame of many Chriſtians) accounted <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the chief Order; and he gives this good reaſon for it, becauſe they had, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Care of Divine things, the Worſhip of their Gods.</p>
+            <p>And that they had Forms of Prayer, is plain from their Hiſtorian,
+<note place="margin">Liv. <hi>l.</hi> 4. <hi>c.</hi> 30.</note> who tells us, That when through a great Drought, about 326. V. C. Diſeaſes fell on Man and Beaſt, <hi>Animos multiplex Religio &amp; pleraque externa in<g ref="char:EOLhyphen"/>vaſit, novos ritus ſacrificando,</hi> &amp;c. <hi>Donec publicus jam pu<g ref="char:EOLhyphen"/>dor ad primores civitatis pervenit, cernentes in omnibus vi<g ref="char:EOLhyphen"/>ris ſacelliſque peregrina atque inſolita piacula pacis Deum expoſcendae: Datum inde negotium Aedilibus, ut animad<g ref="char:EOLhyphen"/>verterent, ne qui Dii niſi Romani, neu quo more quam pa<g ref="char:EOLhyphen"/>trio colerentur.</hi>
+            </p>
+            <pb n="13" facs="tcp:100757:9"/>
+            <p>And as for the <hi>Jewiſh</hi> Church, that was under a Theocra<g ref="char:EOLhyphen"/>cy, the immediate Government of God himſelf, and had Forms preſcribed by him, and obſerved by them.</p>
+            <p>
+               <hi>Aaron</hi> and his Sons were eſpecially ſet apart by God for the Miniſtry, and were conſecrated by Man alſo;
+<note place="margin">
+                  <hi>Heb.</hi> 5.4. <hi>Exod.</hi> 28.</note> they had their appointed places for Worſhip, the Ta<g ref="char:EOLhyphen"/>bernacle in the time of their ſojourning, and the Temple after; and the People were (eſpecially the Males) obliged to appear three times in the Year before the Lord, in the place the Lord had choſen, which was where the Ark or Tabernacle was, at firſt in <hi>Shiloh,</hi> after at <hi>Jeruſalem,</hi> where the Leaned <hi>Mede</hi> obſerves,
+<note place="margin">Mede<hi>'s Works, l.</hi> 1. <hi>c.</hi> 48. <hi>on Deut.</hi> 16.7. <hi>Aſſembly in Deut.</hi> 16.17.</note> they had not only ſtated times by God, but a place; they were to appear not at every place of their own chuſing, but at one of the Lords chuſing. They had alſo general Feaſts appointed by God, the <hi>Paſſover,</hi> a<g ref="char:EOLhyphen"/>greeable with our <hi>Eaſter;</hi> and their <hi>Pentecoſt,</hi> or Feaſt of Weeks ſuitable to our <hi>Whitſontide.</hi> Their Sacra<g ref="char:EOLhyphen"/>ments of the Circumciſion and the Paſſover, with their Order and Ceremonies,
+<note place="margin">
+                  <hi>Gen.</hi> 17.10. <hi>Exod.</hi> 12.</note> were appointed by God to be obſerved by them, on pain of being cut off from <hi>Iſrael.</hi> Yea, they had Forms of Prayers and Praiſes preſcribed them by God: Thus <hi>Aaron</hi> was ordered how to bleſs the Children of <hi>Iſrael,</hi> or pray to God for them. <hi>And the Lord ſpake unto Moſes, ſaying,
+<note place="margin">
+                     <hi>Numb.</hi> 6.23.24.5, 6.</note> ſpeak unto Aaron, and unto his Sons, ſaying, On this wiſe ye ſhall bleſs the Children of Iſrael, ſaying unto them, The Lord bleſs thee and keep thee, the Lord make his face to ſhine upon thee, and be gracious to thee.</hi> Which Form we uſe in our Viſitation of the Sick. Thus alſo in a time of Gods puniſhing them,
+<note place="margin">
+                  <hi>Hoſea</hi> 14.2.</note> 
+               <hi>Hoſea</hi> from God tells the people a Form of Prayer, ſaying, <hi>Take with you words, and turn unto the Lord, ſay unto him, Take away all our Iniquity, and receive us graciouſly, ſo will we offer the
+<pb n="14" facs="tcp:100757:10"/>Calves of our Lips.</hi> And by the Prophet <hi>Joel</hi> a publick Faſt being ſet apart,
+<note place="margin">
+                  <hi>Joel</hi> 2.17.</note> the Miniſters were charged to uſe what is part of our Litany, <hi>Spare thy people, O Lord, and give not thine heritage to reproach.</hi>
+            </p>
+            <p>But what need particular Inſtances of the Jewiſh Forms of Prayer, whenas the whole Book of <hi>Pſalms</hi> was the Jewiſh Liturgy, or their Vocal Service, which is inti<g ref="char:EOLhyphen"/>mated by the Titles of the <hi>Pſalms,</hi>
+               <note place="margin">Mode <hi>l.</hi> 1. <hi>c.</hi> 1. <hi>p.</hi> 2, 3.</note> ſhewing them to have been recommended to the ſeveral Choirs and Maſters of Muſick; and by their beginning with <hi>Oremus, Cante<g ref="char:EOLhyphen"/>mus Deo, Venite exultemus,</hi> 'tis plain they were Forms uſed by the <hi>Jews</hi> in their praying to, and praiſing of God.</p>
+            <p>And as for the Chriſtian Church, the ever-bleſſed Jeſus, our great Lord and Maſter, not only inſtituted the Chriſtian Sacraments, Baptiſm and the Supper of the Lord, as agreeable (as could conſiſt with the Goſpel-Oeconomy) with the Jewiſh Circumciſion and Paſſo<g ref="char:EOLhyphen"/>ver, which were Types of them, but did himſelf teach his Diſciples and all Chriſtians a Form of Prayer; for tho He in <hi>Matth.</hi> 6. ſeems to propoſe it as a Pattern to pray according to it, yet at another time when his Di<g ref="char:EOLhyphen"/>ſciples asked him to teach <hi>them to pray, as St. John alſo taught his Diſciples:</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 11.1, 2. 3, 4.</note> He charged them in expreſs Words, when they prayed, to ſay, <hi>Our Father which art in Heaven,</hi> &amp;c. And himſelf and his Apoſtles uſed Forms of Prayer: Thus our Saviour, tho' filled with the Holy Ghoſt above all Pretenders to it now, yet repeats the ſame Petition in the ſame Words thrice,
+<note place="margin">
+                  <hi>Mat.</hi> 26.39, 42, 44.</note> 
+               <hi>Father, if it be thy Will, let this Cup paſs from me.</hi> And St. <hi>Paul</hi> in moſt of his Epi<g ref="char:EOLhyphen"/>ſtles uſeth the ſame Form of Prayer in the beginning,
+<note place="margin">
+                  <hi>Rom.</hi> 1.7. 1 <hi>Cor.</hi> 1.3. 2 <hi>Cor.</hi> 1.2. <hi>Gal.</hi> 1.3. <hi>Eph.</hi> 1.2. <hi>Rom.</hi> 16.24.</note> as <hi>Grace be unto you, and Peace from God the Father, and our Lord Jeſus Chriſt.</hi> And he uſeth alſo the ſame Form of Bleſſing at the end of them: <hi>The Grace of our Lord
+<pb n="15" facs="tcp:100757:10"/>Jeſus Chriſt be with you all, Amen.</hi>
+               <note place="margin">1 <hi>Cor.</hi> 16.23. <hi>Phil.</hi> 4.23. 1 <hi>Theſſ.</hi> 5.28. 2 <hi>Theſſ.</hi> 3.18. <hi>Philemon</hi> 25.</note> And ſince the A<g ref="char:EOLhyphen"/>poſtles days, 'tis eaſie to prove Forms of Prayer have been uſed by the Chriſtian Church all along in the pub<g ref="char:EOLhyphen"/>lick Worſhip of God.</p>
+            <p>And ſince the Church of God always uſed Forms of Prayer,
+<note place="margin">
+                  <hi>Dr.</hi> Cumber. <hi>Dr.</hi> Falkner.</note> why ſhould not we be uniform in our Wor<g ref="char:EOLhyphen"/>ſhip? A Worſhip ſerious and devout,
+<note place="margin">
+                  <hi>Dr.</hi> Hamond.</note> conciſe and pa<g ref="char:EOLhyphen"/>thetical; a Service ſuited to all Occaſions of Prayer or Thankſgiving for the Church in general, or private Chriſtians in particular.
+<note place="margin">Fox. <hi>Acts, vol.</hi> 3.</note> A Liturgy compiled and re<g ref="char:EOLhyphen"/>formed from Popiſh Errors by thoſe who died Martyrs for it, and did eſpecially recommend it to Poſterity.</p>
+            <p>Our Worſhip, bleſſed be God,
+<note place="margin">
+                  <hi>Oracles of God, a Chriſt. Birth<g ref="char:EOLhyphen"/>right, by the Author of the Whole Duty of Man,</hi> p. 183.4.</note> is not concealed from the people in unknown Tongues, as the Popiſh is, and muſt be where Popery prevails; for in our time ſome of the <hi>French</hi> Biſhops and Clergy having tranſlated the <hi>Roman</hi> Maſs-Book into the <hi>French</hi> Tongue, that that People might underſtand it; The then Pope <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> VII. damned the Book and Tranſlators as Hereti<g ref="char:EOLhyphen"/>cal, orders the Book to be burnt, and the Tranſlators to be excommunicated. So great a Crime is it for poor Souls in that Communion to underſtand their Prayers, who only ſay them as Parrots, who are taught to prate they know not what: But thanks be to God, our Ser<g ref="char:EOLhyphen"/>vice is in the known Tongue of the Nation; ſo that every Member of our Church may (as St.
+<note place="margin">
+                  <hi>St.</hi> Auguſt. <hi>on Pſal.</hi> 18.</note> 
+               <hi>Auguſtine</hi> ſaith a man ought) ſerve God, not chattering like Birds, but with the Reaſon and Underſtanding of a Man.</p>
+            <p>Every perſon of our Communion may know what Petition or Thankſgivings are to be put up to God, and ſo joyn them with ſuitable Affections.</p>
+            <p>And indeed our Devotions are accompanied with ſuch Zeal and Fervency by all true Members of our Church,
+<pb n="16" facs="tcp:100757:11"/>that as <hi>Tertullian</hi> ſtiles it,
+<note place="margin">Tertul. <hi>Apol. c.</hi> 39.</note> 
+               <hi>We offer holy Violence to God, beſieging him by Prayer.</hi> And like thoſe Devotions in St. <hi>Baſil</hi>'s time, through the Unanimity, Uniformity, and Zeal of the Devotees, ſhe thunders out Prayers and Praiſes, each Member ſtriving to exceed other in this holy ſtorming of Heaven for Mercies wanting, and in returning Praiſes for Bleſſings received, and all this without any expectation of our Prayers being heard or anſwered for our Merits, but through the Merits and Mediation of the ever-bleſſed Jeſus alone.</p>
+            <p>Let us, Miniſters, then be uniform in our Worſhip; we have all declared our unfeigned Aſſent and Conſent to all things in our Service,
+<note place="margin">
+                  <hi>Act of Unifor<g ref="char:EOLhyphen"/>mity,</hi> 12 Car. 2.</note> before our Reſpective Dio<g ref="char:EOLhyphen"/>ceſans at our Inſtitutions, and before our ſeveral Peo<g ref="char:EOLhyphen"/>ple ſoon after our Inductions; and twould be a ſhame to us, and a Scandal to the Church, for us to act other<g ref="char:EOLhyphen"/>ways.</p>
+            <p>And as for our Brethren of the Laity, What can they deſire better, and more edifying than our Divine Ser<g ref="char:EOLhyphen"/>vice, where they know what to petition, and to bleſs God for, and may joyn both with ſuitable Affections, and are not confined to the Extemporary Prayer of a Miniſter, with any of whoſe Petitions they know not whether they can joyn, till heard; and too many may, upon good grounds probably, not ſay, <hi>Amen.</hi>
+            </p>
+            <p>The Miniſter being the Mouth of the People to God in Prayer, as he is the Mouth of God to them in preach<g ref="char:EOLhyphen"/>ing, ought to pray what the people underſtand, may be moſt affected with, and may heartily ſay <hi>Amen</hi> to; which ſurely is beſt done by a Form of Prayer under<g ref="char:EOLhyphen"/>ſtood by them before. This would prevent that Con<g ref="char:EOLhyphen"/>ſuſion the Church and Congregation would be in, if every one was left to his private Devotions and Peti<g ref="char:EOLhyphen"/>tions.</p>
+            <pb n="17" facs="tcp:100757:11"/>
+            <p>St. <hi>Paul</hi> rejoyced to ſee the Order in the Church of the <hi>Coloſſians;</hi> for by their Uniformity in Worſhip, an awful Reverence would be gained to Religion, and its very Enemies could not but think them the Servants of the God of Order; whenas ſhould one come into a Con<g ref="char:EOLhyphen"/>gregation that is not uniform, but one hath an Hymn, another an extemporary Prayer, a third a Form, every one as he thinks fit at his Devotion, would not a Man think that Congregation mad, as St. <hi>Paul</hi> infers,
+<note place="margin">1 <hi>Cor.</hi> 14.23, 26.33.</note> and however grants, <hi>ſuch a Courſe unedifying, and not of God, who is not the Author of Confuſion, but of Peace, as in all the Churches of the Saints.</hi>
+            </p>
+            <p>Yea, was the greateſt Pretender to, or Pleader for <hi>Extempore</hi> Effuſions againſt Forms of Prayer, but to ſpeak to his Landlord, a great Man, or however to the King, I am confident he would a little conſider, and preme<g ref="char:EOLhyphen"/>ditate what Form of Words he ſhould expreſs himſelf in; much more ought we to do, when we who are but Duſt and Aſhes, are to ſpeak in our Prayers to the great God. <hi>Solomon</hi>'s Advice ſurely is very neceſſary, <hi>That we take heed when we go into the Houſe of God,
+<note place="margin">
+                     <hi>Eccleſ.</hi> 5.2.</note> and be not raſh with our Mouths, or let our Hearts utter any thing before God; for God is in Heaven, and we up<g ref="char:EOLhyphen"/>on the Earth, therefore let our words be ſew.</hi> And indeed to avoid the Battology of the <hi>Phariſees,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 6.</note> our Saviour taught us that <hi>Compendium,</hi> the Lords Prayer.</p>
+            <p>And let any Oppoſer of our Forms conſult but their <hi>Directory,</hi> and they will find almoſt as great a Forma<g ref="char:EOLhyphen"/>lity, and as ſtrictly enjoyned, tho' with leſs Piety and Devotion:
+<note place="margin">
+                  <hi>Directory, Pre<g ref="char:EOLhyphen"/>face, p.</hi> 8.</note> And the very Compilers of that Book in its Preface declare for Uniformity in Divine Worſhip, for two Reaſons; (1.) <hi>To anſwer the Expectations of other Reformed Churches;</hi> and, (2.) <hi>To perform what they were obliged to, by their Promiſe in their Solemn League and
+<pb n="18" facs="tcp:100757:12"/>Covenant.</hi> Now how can they be uniform without a Form? Or can their <hi>Directory,</hi> which they eſtabliſhed, (when they threw away the Churches Liturgy) ſhew their Uniformity, when every Miniſter is left to pray as he pleaſeth? 'Tis true indeed, it preſcribes and in<g ref="char:EOLhyphen"/>joyns the Matter and Pattern of Prayer, why then may not fit words to expreſs that Matter in, be injoyn<g ref="char:EOLhyphen"/>ed? Is not the preſcribing the Matter for Prayer, as much formal, and as great a ſtinting of the Spirit, as to injoyn fit words? Or can the Spirit dictate Words, and not the Matter, to their Paſtors? If they be for U<g ref="char:EOLhyphen"/>niformity, why not pious Matter in ſuitable Expreſſions, as our Liturgy injoyns? If not for Uniformity, Why do they pretend to it,
+<note place="margin">Ludovicus Capellus, Theſ. Theo<g ref="char:EOLhyphen"/>log. de Litur<g ref="char:EOLhyphen"/>gia, p. 656, ad 670.</note> and by their Reaſons for that pretence, grant what is eaſily proved, <hi>That all the Re<g ref="char:EOLhyphen"/>formed Churches beyond Sea, whether from</hi> Calvin <hi>or</hi> Lu<g ref="char:EOLhyphen"/>ther; <hi>and alſo the Aſſembly of Divines themſelves did ſee the Neceſſity and Advantage, and did uſe Forms of Prayer,</hi> and that with great Reaſon.</p>
+            <p>For ſurely the Prayer put up by the whole Congrega<g ref="char:EOLhyphen"/>tion, with which all Congregations of our Church through the Nation joyn, muſt be more acceptable to, and prevalent with God, than the private Prayer of a ſingle perſon that hath ſcarce another in the whole World joyning with him.</p>
+            <p>But however they pleaſe to act, let us, the Miniſters and Members of the Church of <hi>England,</hi> adhere to our Liturgy and Uniformity in Worſhip. Let the Aſhes of our Reformers and its Compilers, warm us with Zeal for it, and make us aſhamed to diſown that for which they died.</p>
+            <p>Let us ſhew our ſelves <hi>the Tribes of the Lord,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 122.4.</note> as the Text imports, by our Uniformity of Worſhip in our <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> that our Prayers may be prevalent for its peace:
+<pb n="19" facs="tcp:100757:12"/>And let others that will not do ſo, anſwer it at their perils; the Text implying, <hi>they are not,</hi> nor do belong to <hi>the Tribes of the Lord,</hi> that neglect this uniform Wor<g ref="char:EOLhyphen"/>ſhip of him, as St. <hi>Proſper</hi> remarks on that Verſe.
+<note place="margin">
+                  <hi>St.</hi> Proſper <hi>in loc.</hi>
+               </note>
+            </p>
+            <p n="3">3. A third thing tending to the peace of <hi>Jeruſalem,</hi> is <hi>Impartiality of Diſcipline.</hi> The People of the <hi>Jews</hi> had God himſelf for their Legiſlator, and had both Ci<g ref="char:EOLhyphen"/>vil and Eccleſiaſtical Laws to puniſh Sin by; and ſo have we Chriſtians from the ſame God and Chriſt, in the Holy Scriptures of the Old and New Teſtament, the juſt and holy God endeavouring in them by Threats of Temporal, Spiritual, and Eternal Miſery to deter the Wicked from the evil of his way, and by Promiſes of Felicity for both Soul and Body here and hereafter, to encourage the Good in the way of Holineſs.</p>
+            <p>But, alas! ſuch is man's ſtupidity, that he is led more by Senſe than Faith, and is more afraid of temporal Mulcts and Puniſhments from the Civil and Eccleſia. ſtical Magiſtrates, than of the Frowns and Threats of Eternal Vengeance from the great God.</p>
+            <p>And therefore, as the Philoſopher obſerved,
+<note place="margin">Ariſt. <hi>l.</hi> 5. <hi>c.</hi> 5. <hi>de Moribus. T.</hi> 3. <hi>p.</hi> 79.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Law of Nature commanding us to live according to every Vertue, and forbidding every Vice: All Nations have provided Laws for the puniſh<g ref="char:EOLhyphen"/>ment of the one, and the encouragement of the other.</p>
+            <p>And were the Statutes and Laws Civil and Eccleſiaſti<g ref="char:EOLhyphen"/>cal of our Nation, impartially executed, we ſhould ſoon ſee Sin diſgraced, the Sinner aſhamed, the Sabbath bet<g ref="char:EOLhyphen"/>ter kept, our Churches fuller, and have greater hopes for the peace of our <hi>Jeruſalem.</hi>
+            </p>
+            <p>Let not then thoſe to whom the Executive Power of them is committed, connive at, or partially puniſh ſin, leſt we incur the Cenſure we caſt on the Church of
+<pb n="20" facs="tcp:100757:13"/>
+               <hi>Rome</hi> too juſtly, of ſelling Pardon of Sins for Mony.</p>
+            <p>I would gladly hope the Concern of our Religion,
+<note place="margin">
+                  <hi>Letter to Bi<g ref="char:EOLhyphen"/>ſhops,</hi> 1689.</note> the Danger we are in, the late Requeſt and Command of our Governours, will engage the impartial proce<g ref="char:EOLhyphen"/>dure of Juſtice to puniſh Vice where-ever.</p>
+            <p>But this being not mine, but the Civil and Eccleſiaſti<g ref="char:EOLhyphen"/>cal Magiſtrates Province, I ſhall leave it, and only beg they would endeavour by ſuch a good Adminiſtration, the Peace of <hi>Jeruſalem,</hi> to which nothing can more con<g ref="char:EOLhyphen"/>duce than it, as what would promote what I ſhall urge in the laſt place for <hi>Jeruſalem</hi>'s Peace; and that is,</p>
+            <p n="4">4. <hi>Integrity and holineſs of Converſation</hi> in all its Mem<g ref="char:EOLhyphen"/>bers.
+<note place="margin">Plautus Perſa. <hi>Act</hi> 4. <hi>Sc.</hi> 4.</note> The <hi>Comedian</hi>'s Obſervation is very true; <hi>Op<g ref="char:EOLhyphen"/>pidum, ſi incolae bene ſint morati, pulchre munitum arbi<g ref="char:EOLhyphen"/>tror:</hi> But if Vice abound in a City or Nation, <hi>Centuplex murus rebus ſecundis parum eſt.</hi> And the ſacred Writ affords as many ſad Inſtances of perſons, whoſe ſins cried for,
+<note place="margin">
+                  <hi>Gen.</hi> chap. 6, 7.</note> and pulled down Vengeance on the places of their Habitations, witneſs the Inhabitants of the old World, and of <hi>Sodom</hi> and <hi>Gomorrha.</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> chap. 18.19.</note>
+            </p>
+            <p>Sin diſturbs inward Peace, hinders outward Com<g ref="char:EOLhyphen"/>forts, and expoſeth to inevitable Ruin; no wonder then every of Gods People the <hi>Jews</hi> were charged to <hi>be Ho<g ref="char:EOLhyphen"/>ly,
+<note place="margin">
+                     <hi>Lev.</hi> 11.44.</note> as their God was Holy;</hi> and we Chriſtians are com<g ref="char:EOLhyphen"/>manded, <hi>if we dare to name the Name of Chriſt, to depart from Iniquity:</hi>
+               <note place="margin">2 <hi>Tim.</hi> 2.19. <hi>Titus</hi> 2.11, 12, 14.</note> And if <hi>we expect Salvation through him hereafter, to be a peculiar People to him in ſerving him here.</hi>
+            </p>
+            <p>And if the ſins of common Chriſtians add to the ſins of the Nation and Church, and call for Vengeance on both, much more will the ſins of Miniſters be provoking.</p>
+            <p>The Learned Dr.
+<note place="margin">
+                  <hi>Dr.</hi> Cave<hi>'s In<g ref="char:EOLhyphen"/>troduct. to vol.</hi> 2. <hi>L. Fathers, p.</hi> 32.</note> 
+               <hi>Cave</hi> tells us, the very Heathen Em<g ref="char:EOLhyphen"/>peror <hi>Julian</hi> commanded the <hi>Heathen Prieſts to abſtain from all vile and wicked Actions, to study, and live ſtrict<g ref="char:EOLhyphen"/>ly, performing Religion with a great care.</hi>
+            </p>
+            <pb n="21" facs="tcp:100757:13"/>
+            <p>We are ſure the great God forbids all <hi>Natural,</hi> much more <hi>Moral</hi> Deformities in his Miniſters under the Law,
+<note place="margin">
+                  <hi>Lev.</hi> 21.23.</note> and charged them to bear on their Breaſts <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thummim, Learning</hi> and <hi>Sincerity,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 28, 30, 36, 39. &amp;c.</note> and on their Foreheads or Converſation, <hi>Holineſs.</hi> And Chriſt, under the Go<g ref="char:EOLhyphen"/>ſpel, expects no leſs. The Charge St. <hi>Paul</hi> gives to St. <hi>Timothy,</hi> and in him to all Miniſters, is great;
+<note place="margin">1 <hi>Tim.</hi> 4.14.</note> 
+               <hi>To be an Example in Converſation as well as Doctrin, in Purity as well as Faith.</hi> And no Church can more ſtrictly injoyn her Miniſters an Holy Life, than ours doth.
+<note place="margin">Can. 75.</note>
+            </p>
+            <p>But ſince the beſt of men on this ſide Heaven have their failings; and as St.
+<note place="margin">
+                  <hi>Rom.</hi> 7.18, <hi>to</hi> 24.</note> 
+               <hi>Paul himſelf found reaſon to com<g ref="char:EOLhyphen"/>plain of his ſinfulneſs,</hi> I ſhall turn my Advice to you, into Prayer to God for us all,
+<note place="margin">Prayer for Ern<g ref="char:EOLhyphen"/>ber Week.</note> in our Church's Words for all her Miniſters; <hi>That God would ſo repleniſh all of us called to this holy Function, with the Truth of Doctrin, and Innocency of Life—That both by Life and Doctrin, we may ſet forth the Glory of our God, and ſet forward the Sal<g ref="char:EOLhyphen"/>vation, not only of our ſelves, but of all men.</hi> And I promiſe my ſelf, that all of us will endeavour effectually to anſwer, <hi>Amen.</hi>
+            </p>
+            <p>And thus have I conſidered the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the things that make for the Peace of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> which we ought to pray for, and endeavour after: <hi>
+                  <g ref="char:V">Ʋ</g>nanimity in Doctrin, <g ref="char:V">Ʋ</g>niformity in Worſhip, Impartiali<g ref="char:EOLhyphen"/>ty in Diſcipline, and Integrity in Converſation.</hi>
+            </p>
+            <p>And to incite to the practice of theſe, I ſhall very briefly add a few Motives.</p>
+            <p n="1">1. The Zeal the Heathens had for their Religion: For tho' by our Apoſtacy we depraved Gods Image,
+<note place="margin">
+                  <hi>Rom.</hi> 3.23.</note> in which we were created; yet the very Remains of that Image in fallen Man did dictate to him the Being of a God, and that he ought to be worſhipped;
+<note place="margin">Cicero <hi>l.</hi> 2. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Nat. D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oru<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> ſo that the <hi>Roman</hi> Orator brings in one Saying, <hi>Omnibus innatum eſt, &amp;
+<pb n="22" facs="tcp:100757:14"/>in aninto quaſi inſculptum Deos eſſe — eſſe Deos ita perſpi<g ref="char:EOLhyphen"/>cuum eſt, ut id qui negat, vix eum ſanae mentis exiſtimem.</hi> And the Orator himſelf ſaith,
+<note place="margin">Cicero <hi>l.</hi> 1. <hi>de Legibus.</hi>
+               </note> 
+               <hi>In hominibus nulla Gens eſt neque tam immanſueta, neque tam fera, quae non (eti<g ref="char:EOLhyphen"/>amſi ignoret qualem habere Deum, deceat tamen) habendum ſciat.</hi> And the Philoſopher tells us how God is known by them; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<note place="margin">Ariſt. <hi>de Mun<g ref="char:EOLhyphen"/>do, c.</hi> 6. <hi>T.</hi> 1. <hi>p.</hi> 863.</note> And as they ac<g ref="char:EOLhyphen"/>knowledged a God, ſo they ſeldom mentioned his Name, eſpecially <hi>Jove</hi>'s (which may probably be a Contract of the <hi>Jews,</hi> and our <hi>Jehovah</hi>) without ſome Epithet declaring their Eſteem of, and Honour for him; as <hi>Jupiter Optimus Maximus, Immortalis,</hi> &amp;c.</p>
+            <p>And 'tis probable they had ſome notion of a Chriſt, and the Son of God becoming Man; and perhaps this was the reaſon why about the time of our Saviour's Birth,
+<note place="margin">Sueton. Aug. Caeſar, <hi>c.</hi> 53. <hi>Biſhop</hi> Taylor <hi>L. of Chriſt. S.</hi> 4. <hi>p.</hi> 25. Platina, <hi>f.</hi> 6. Euſeb. <hi>Hiſt. l.</hi> 2. <hi>c.</hi> 2.</note> 
+               <hi>Auguſtus Caeſar,</hi> in Honour to our Saviour, <hi>Dominum ſe poſthac appellari, ne a Liberis quidem aut Nepotibus, vel ſerio vel joco paſſus eſt.</hi> However, 'tis certain <hi>Tiberius Caeſar,</hi> under whom our bleſſed Saviour ſuffered, <hi>would have had our Chriſt reckoned among the Number of their Gods.</hi>
+            </p>
+            <p>And as they had thus a Notion of God, and Honour for him, ſo they made it their firſt and chief Buſineſs to take care of his Worſhip: Thus one;
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <note place="margin">Pythag. <hi>v.</hi> 1. Phocyl. <hi>v.</hi> 6.</note>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>— And another, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+            </p>
+            <p>Nor was the Worſhip of God their chief Buſineſs, but they were zealous and uniform in it;
+<note place="margin">Ovid. Metam. <hi>l.</hi> 1.</note> thus <hi>Ovid</hi> brings in <hi>Jupiter</hi> declaring it:
+<q>
+                  <l>Signa dedi veniſſe Deum, vulgus precari</l>
+                  <l>Coeperat—</l>
+               </q> And of <hi>Dencalion</hi> and <hi>Pyrrhus</hi>'s Zeal, <hi>Ovid</hi> tells us thus:
+<pb n="23" facs="tcp:100757:14"/>
+               <q>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>t Templi tetigere gradus procumbit uterque,</hi>
+                     <note place="margin">Lib. eodem.</note>
+                  </l>
+                  <l>
+                     <hi>Pronus humi gelidoque pavens, dedit oſcula ſaxo.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>But it would be tedious to inſiſt on their Devotion, let one Inſtance ſerve for all to ſhew their Zeal for Re<g ref="char:EOLhyphen"/>ligion. <hi>Val. Maximus</hi> ſaith of the Heathen <hi>Rome;
+<note place="margin">Val. Max. <hi>l.</hi> 1. <hi>c.</hi> 1. <hi>n.</hi> 9.</note> Om<g ref="char:EOLhyphen"/>nia poſt Religionem ponenda ſemper noſtra Civitas duxit, etiam in quibus ſummae majeſtatis conſpici decus voluit.</hi>
+            </p>
+            <p>Surely then we Chriſtians, and Miniſters of the beſt of Churches, ought to eſteem its Peace, and our Re<g ref="char:EOLhyphen"/>ligion more than our Lives and Fortunes: A Religion far better than they (poor Creatures) could pretend to. Their Heathen Idols, even that at <hi>Delphos,</hi> being ſilenced at our Saviour's Death, as <hi>Plutarch</hi> himſelf grants,
+<note place="margin">Plutarch. <hi>de Orac. defect. Dr.</hi> Cave <hi>in<g ref="char:EOLhyphen"/>troduct. to v.</hi> 1. <hi>L. Fath. p.</hi> 10. <hi>Dr.</hi> Heylin's Coſmog. <hi>l.</hi> 2. Phocis.</note> and others witneſs; which was a Demonſtration that Chriſt came to put an end to their Idolatry; and cer<g ref="char:EOLhyphen"/>tainly if they were ſo zealous for their Idolatry, it ſhould excite our Zeal for Chriſtianity, and our Prayers and Endeavours for the promoting and continuing the Peace of our <hi>Jeruſalem.</hi>
+            </p>
+            <p n="2">2. Conſider <hi>the fidelity of the</hi> Jews <hi>to their Temple and Religion.</hi> Scripture abounds with Evidences of their ſtrictneſs in their Services and Devotions, and how hardly any of them cloſed with Chriſt, when he came, tho' their promiſed <hi>Meſſiah,</hi> but in zeal to their Law and Church, they cryed out, <hi>Crucifie him, crucifie him.</hi>
+            </p>
+            <p>And as for the Honour the <hi>Jewiſh</hi> Nation had for their Temple at <hi>Jeruſalem,</hi> 'tis recorded,
+<note place="margin">Philo <hi>Legat. ad</hi> Cajum, <hi>ci<g ref="char:EOLhyphen"/>ted by</hi> Bp. Uſher <hi>in power of Princes obed. of Subject. p.</hi> 191, <hi>to</hi> 198.</note> That when the Em<g ref="char:EOLhyphen"/>peror <hi>Cajus,</hi> after our Saviour's time, would have had his Image ſet up in the Temple at <hi>Jeruſalem,</hi> with the Title he had aſſumed to himſelf, of <hi>New Jupiter,</hi> all the Old Men, Young Men, and Boys in one rank; all the Old Women, young Ones, and Virgins in another, offered themſelves to be ſlain by the Emperor's Fury,
+<pb n="24" facs="tcp:100757:15"/>rather than they would ſuffer their Temple to be pro<g ref="char:EOLhyphen"/>ſaned with Idolatry.
+<note place="margin">Euſeb. <hi>Hiſt. l.</hi> 3. <hi>c.</hi> 5, 6, 7, 8. <hi>Dr.</hi> Cave, <hi>v.</hi> 2. <hi>L. F. L. St.</hi> Si<g ref="char:EOLhyphen"/>meon, <hi>p.</hi> 94, 95. <hi>v.</hi> 1. <hi>L. F. L. St.</hi> Stephen, <hi>p.</hi> 11. <hi>L. St.</hi> Cyril, <hi>p.</hi> 352, 353.</note>
+            </p>
+            <p>Tho' afterwards this Temple of <hi>Jeruſalem</hi> was de<g ref="char:EOLhyphen"/>ſtroyed by <hi>Titus Veſpaſian,</hi> and ſcarce one ſtone left up<g ref="char:EOLhyphen"/>on another, according to our Saviour's Prediction, <hi>Matth.</hi> 24. And when the Emperor <hi>Julian,</hi> to prove Chriſt a falſe Prophet, did encourage the <hi>Jews</hi> to re<g ref="char:EOLhyphen"/>build it, no ſooner had they cleared the Rubbiſh, and laid the Foundation, but a terrible Earthquake ſhaked it down, and all the Buildings about it, and deſtroyed the Undertakers of it: And when the next day others attempted it, a great Fire broke out, and forced them to give over, as is atteſted by Writers Heathen as well as Chriſtian.</p>
+            <p>By which the ever-bleſſed Jeſus demonſtrated his put<g ref="char:EOLhyphen"/>ting an end to the <hi>Jewiſh</hi> Oeconomy, and his bringing the World to a purer Religion, that of the Goſpel, Chriſtianity. And ſurely if the <hi>Jews</hi> were ſo zealous for, and ſo faithful to their Religion, which was ſo ob<g ref="char:EOLhyphen"/>ſcure and chargeable, ſo burthenſom and troubleſom, we ſhould joyn all our Prayers, and uſe all our Endea<g ref="char:EOLhyphen"/>vours for the Peace of our <hi>Jeruſalem,</hi> and the Welfare of our Religion which ſets us free from that Yoke of Bondage,
+<note place="margin">
+                  <hi>Gal.</hi> 5.1. <hi>Mat.</hi> 11.28, 29.</note> eaſeth us of thoſe Burthens, and makes our Service perfect Freedom. Eſpecially,</p>
+            <p n="3">3. If we conſider the Zeal of the Primitive Chriſtians, who, rather than they would comply with the Worſhip of falſe Gods, or ſuffer their own Worſhip of the true God to be profaned, were themſelves ſacrificed, and rather choſe to part with their Lives,
+<note place="margin">
+                  <hi>Dr.</hi> Heylin<hi>'s Coſmog. in</hi> 4<hi rend="sup">o</hi>. <hi>l.</hi> 3. <hi>p.</hi> 193, 293. Leigh <hi>on</hi> Cae<g ref="char:EOLhyphen"/>ſars, <hi>p.</hi> 247. 9.</note> than their Reli<g ref="char:EOLhyphen"/>gion, witneſs the Diſciples and Apoſtles of the ever-bleſ<g ref="char:EOLhyphen"/>ſed Jeſus, moſt of whom died Martyrs, witneſs the Ten Primitive Perſecutions; in the laſt of which under <hi>Dio<g ref="char:EOLhyphen"/>cleſian,</hi> 'tis ſaid 5000 Chriſtians were martyred for
+<pb n="25" facs="tcp:100757:15"/>every day of the year, except the firſt of <hi>January,</hi> on which they ſhed no Blood, as St. <hi>Hierom</hi> writes. Nor did our Religion loſe by their Sufferings, but was ra<g ref="char:EOLhyphen"/>ther the more propagated, occaſioning that Chriſtian Adage, <hi>Sanguis Martyrum eſt ſemen Eccleſiae.</hi>
+            </p>
+            <p>Let the like Zeal be in us, our Faith is the ſame, our Hopes, and Encouragements of Support under, and of Glory after Sufferings, are as great as they had; they were Fleſh and Blood as well as we. Let us not then fear to bear a Croſs with Chriſt on Earth, if call'd to it, ſince we expect to wear a Crown with him in Heaven.</p>
+            <p>Death we muſt meet with; and to ſuffer it for Chriſt's and our Religion's Cauſe, will make that which is a Debt to Nature, an Advantage to us; our thus ſuffering here, adding to our Crown of Glory hereafter.
+<note place="margin">2 <hi>Cor.</hi> 4.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 18.</note> For aſſured<g ref="char:EOLhyphen"/>ly, if they who live to Chriſt, ſhall be happy with Chriſt, much more ſhall they be glorious, who with the Noble Army of Martyrs, die for Chriſt, rather than they will diſown, or betray him.</p>
+            <p n="4">4. Let us be earneſt and zealous in our Prayers and Endeavours for our Religion, and the Peace of our <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> from the ſad Effects of Schiſm in the Church, and Civil War (its uſual Product) in the State. See how St. <hi>Paul</hi> brands thoſe who cauſe Diviſions, and de<g ref="char:EOLhyphen"/>ters us from them: <hi>Now, I beſeech you,
+<note place="margin">
+                     <hi>Rom.</hi> 16.17.</note> mark them which cauſe Diviſions and Offences contrary to the Doctrin which ye have learned, and avoid them: For they that are ſuch, ſerve not the Lord Jeſus Chriſt, but their own Bellies, and by good Words and fair Speeches, deceive them that are ſim<g ref="char:EOLhyphen"/>ple.</hi> And the ſame Apoſtle tells us of ſome that with<g ref="char:EOLhyphen"/>ſtood <hi>Moſes</hi> and Gods Inſtitution among the <hi>Jews,</hi> as <hi>Jannes</hi> and <hi>Jambres;</hi>
+               <note place="margin">2 <hi>Tim.</hi> 3.5. <hi>to</hi> 9.</note> and he parallels the Chriſtian Schiſ<g ref="char:EOLhyphen"/>maticks with them, who having a ſhew of Godlineſs, but not the power of it, <hi>creep into houſes, and lead ſilly Women
+<pb n="26" facs="tcp:100757:16"/>captive.</hi>
+               <note place="margin">
+                  <hi>Lev.</hi> 10.2.</note> We read alſo of ſome that uſurped the Prieſts Office under the Law, as <hi>Nadab</hi> and <hi>Abihu;</hi> but their falſe Fire provoked God to burn them;
+<note place="margin">
+                  <hi>Nemb.</hi> 16.</note> and <hi>Korah</hi> do<g ref="char:EOLhyphen"/>ing the like, the Earth opened and ſwallowed him up, and Fire burnt his Companions. Let this deter all from Schiſm and uſurping of the Prieſts Office, who are not called to it, as God under the Law and Goſpel, appoints; <hi>called by God,
+<note place="margin">
+                     <hi>Heb.</hi> 5.4. <hi>Exod.</hi> 28.</note> and conſecrated by Men in Authority to do it, as</hi> Aaron <hi>was.</hi> Yea, Chriſt himſelf, tho' endowed with a greater meaſure of the Spirit, than any now can pretend to, yet took not on him that Office, without a Commiſſion from his Father,
+<note place="margin">1 <hi>Joh</hi> 3.1, 2.</note> as <hi>Nicodemus</hi> grants.</p>
+            <p>And as God ſent him, he ſent his Apoſtles, ordaining them to the Work of the Miniſtry,
+<note place="margin">1 <hi>Joh.</hi> 20.21.</note> and they ordained others,
+<note place="margin">1 <hi>Tim.</hi> 5.22.</note> and appointed Biſhops over Churches, and charged them <hi>to lay hands ſuddenly on no man,</hi> and to ordain them whom they found fit for the Miniſterial Office.
+<note place="margin">
+                  <hi>Titus</hi> 1.5.</note>
+            </p>
+            <p>Let the black Mark St. <hi>Paul</hi> (as is premiſed) ſixeth on the Schiſmatick, deter from it; and ſurely none can be fond of becoming their Proſelytes, whenas twice St. <hi>Paul</hi> ſtiles all ſuch, <hi>ſimple People, and ſilly Perſons,</hi> Titles with which few are pleaſed.</p>
+            <p>And as the ill Conſequences of Schiſm in the Church may incite us to pray for the Peace of <hi>Jeruſalem,</hi> and oblige us to unite among our ſelves, ſo ſurely the Dan<g ref="char:EOLhyphen"/>ger and Fears of a Civil War in the Nation (the uſual Effect of Schiſm in the Church) will enforce us to the Duty.</p>
+            <p>Methinks that dreadful Account of the Civil War be<g ref="char:EOLhyphen"/>tween <hi>Caeſar</hi> and <hi>Pompey,
+<note place="margin">Lucan, <hi>l.</hi> 2. <hi>v.</hi> 102.3.</note> Lucan</hi> gives us, may affright us</p>
+            <lg>
+               <l>
+                  <hi>Stat cruor in Templis, multaque rubentia caede</hi>
+               </l>
+               <l>
+                  <hi>Lubrica ſaxa madent, nulli ſua profuit aetas;</hi>
+               </l>
+               <l>
+                  <hi>Non ſenis extremum pinguit urgentibus annis,</hi>
+               </l>
+               <pb n="27" facs="tcp:100757:16"/>
+               <l>
+                  <hi>Praecipitaſſe diem, ne primo in limine vitae</hi>
+               </l>
+               <l>
+                  <hi>Infantis miſeri naſcentia rumpere fata.</hi>
+               </l>
+               <l>—<hi>Infandum Domini per viſcera ferrum</hi>
+                  <note place="margin">Lucan <hi>lib. cit. v.</hi> 145.</note>
+               </l>
+               <l>
+                  <hi>Exegit famulus, Gnati maduêre Parentis</hi>
+               </l>
+               <l>
+                  <hi>Sanguine, certatum eſt cui cervix caeſa parentis Cederet.</hi>
+                  <note place="margin">
+                     <hi>V.</hi> 180.</note>
+               </l>
+               <l>
+                  <hi>Avulſae cecidere manus, exſectaque lingua</hi>
+               </l>
+               <l>
+                  <hi>Palpitat, &amp; muto vacuum ferit aere motu</hi>
+               </l>
+               <l>
+                  <hi>Hic aures, alius ſpiramina naris aduncae</hi>
+               </l>
+               <l>
+                  <hi>Amputat,</hi> &amp;c.</l>
+            </lg>
+            <p>But we need not go ſo far for ſad Inſtances of the Effects of Civil Wars; if we look back into our late Times, might we not find our Church a Chaos, and the Nation an <hi>Aceldama,</hi> when Perſons out of a pretended Zeal againſt Popery, mur<g ref="char:EOLhyphen"/>dered their Lawful Soveraign, and were impoſed on by Popiſh Emiſſaries in their ſeveral Conventicles?</p>
+            <p>What Perſon was then ſo ſacred? What Place ſo ſecure, but it was profaned and injured? The Royal Diadem and Sacred Mitre trod under-foot, and no tye of Religion or Nature hin<g ref="char:EOLhyphen"/>dred them from Sacrilege and Murder. From which Wounds our Church and Nation yet retain Scars, and the Original of all our late or preſent Fears may be thence dated.</p>
+            <p>Let then the fiery Zeal of thoſe of the <hi>Roman</hi> Communion, (whoſe moſt cogent Arguments are Sword and Faggot) make us abhor that Religion which the Chriſtian World grows wea<g ref="char:EOLhyphen"/>ry of, and I hope will in ſhort time throw off: Let the Com<g ref="char:EOLhyphen"/>motions in <hi>Germany,</hi> the ſad <hi>Cataſtrophe</hi> of our Royal Martyr, and the dreadful Effects of thoſe times diſſwade us from being impoſed on by ſuch Incendiaries, and oblige us to pray for, and to our utmoſt power endeavour the Peace of <hi>Jeruſalem.</hi> Becauſe,</p>
+            <p>Laſtly, of the Motive in the Text, <hi>They ſhall proſper that love thee;</hi>
+               <note place="margin">Buxtorf. Bith<g ref="char:EOLhyphen"/>ner, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anſeni<g ref="char:EOLhyphen"/>us, Proſper.</note> where the original Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> comes from the Radix <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which fignifies, <hi>Tranquilli erunt, faelices erunt,</hi> they ſhall be happy both in Mind and Body; all inward Contentment, all outward Felicity ſhall be enjoyed by them that are at Unity with, and uniform to our <hi>Jeruſalem,</hi> our Church of <hi>England,</hi> which <hi>I am conſident will be continued and preſerved by God, as long as he hath a Church upon Earth.</hi>
+            </p>
+            <pb n="28" facs="tcp:100757:17"/>
+            <p>Let then all Diſſenters from us, I beſeech them, ſee the deſign of their and our Enemies of <hi>Rome,</hi> whoſe grand Endeavour is to divide us, and ſo deſtroy us by our ſelves; and let it influence them to unite with us againſt a common Adverſary.</p>
+            <p>Let them lay aſide that unreaſonable and unjuſt Prejudice a<g ref="char:EOLhyphen"/>gainſt our Church, of being Popiſhly affected, by asking them<g ref="char:EOLhyphen"/>ſelves ſeriouſly, What Party of Diſſenters did, or dared to ſpeak or write againſt Popery a few years ſince, when they at the ſame time did apprehend it coming in like a Deluge? Nay, they ra<g ref="char:EOLhyphen"/>ther then cloſed with, and are now fond of a Liberty of Con<g ref="char:EOLhyphen"/>ſcience, whereby Popery is moſt probably to be promoted, and the Diſſenters impoſed on in their own Meetings by Po<g ref="char:EOLhyphen"/>piſh Emiſſaries.</p>
+            <p>It was (as muſt be confeſs'd) the Church of <hi>England</hi> Men alone, who from their Pulpits and the Preſs, (as they had no Reaſon to be aſhamed to own their Religion, ſo) were not a<g ref="char:EOLhyphen"/>fraid to defend it; and have ſhewn that 'tis our Church which is the greateſt Bulwark againſt Popery, by daring rather to ſuf<g ref="char:EOLhyphen"/>fer for it, than betray it, to arrive at the greateſt Honours, or keep the grandeſt Priviledges.</p>
+            <p>And would our diſſenting Brethren but unite with us, (which they have juſt cauſe to do) 'twould free them from the Trou<g ref="char:EOLhyphen"/>ble and Diſtracting of halting between divers Opinions; this would free the Nation and Church from Schiſm and Faction, cauſe both to enjoy peace, make us all happy at home, and for<g ref="char:EOLhyphen"/>midable abroad: This would, in a word, prepare us for Gods Spirit and its Graces in the Church, where all its Members were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Acts</hi> 2.1.</note> of one mind, when the Holy Ghoſt deſcended on them, and would entitle both Church and State to Gods pro<g ref="char:EOLhyphen"/>tection, that <hi>the Gates of Hell ſhall not prevail againſt us.</hi>
+            </p>
+            <p>And therefore with the words of my Text, let Tongue and Heart of every one of us pray earneſtly for, and let all our En<g ref="char:EOLhyphen"/>deavours be to the promoting of the <hi>Peace of our Jeruſalem;</hi> and we need not doubt, but the God of Mercies, who ever took care of his Church amongſt us, will grant us the gracious An<g ref="char:EOLhyphen"/>ſwer of the next words, <hi>They ſhall proſper that love thee.</hi>
+            </p>
+            <p>
+               <hi>To which, God the Father, Son and Holy Ghoſt, Three Perſons, and one God, be aſcribed of us, and all the World, all Praiſe and Thankſgiving, now and evermore.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
